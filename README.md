@@ -6,9 +6,9 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-AP Computer Science Principles
+AP Computer Science Principles    
 An introductory Computer Science course designed to introduce students to the 
-fundamental concepts and ideas central to the field.
+fundamental concepts and ideas central to the field.    
 Grades 10-12
 
 ### Situation
