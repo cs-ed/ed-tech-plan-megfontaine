@@ -20,7 +20,7 @@ context of your class, considering demographic and technical resources?
 This course will be offered at a public high school serving a suburban community
 in the Northern Bay Area of California. Total enrollment is approimately 1600,
 and a significant portion of the student body, about 10%, are English Language Learners.
-The school's [Ethnic Diversity Index] (https://www.ed-data.org/article/Ethnic-Diversity-Index) is 44.
+The school's [Ethnic Diversity Index] (/https://www.ed-data.org/article/Ethnic-Diversity-Index) is 44.
 The ethnic breakdown of the student population is 47.7%  Hispanic or Latino, 40.2% White,
 6% two races or more, 3.1% Asian, 1.3% African American, 0.7% Filopino, 0.4% American Indian 
 or Alaska Native,0.2% Pacific Islander, and 0.3% not reported. Approximately 49% of students 
