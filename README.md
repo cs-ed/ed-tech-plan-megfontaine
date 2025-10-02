@@ -50,6 +50,8 @@ Teacher Software
 * MacBook Pro
 * All website, LMS & gradebook tools listed above
 * [IDLE Python IDE](https://www.python.org/downloads/)
+* [Scanner Pro App](https://apps.apple.com/us/app/scanner-pro-scan-documents/id333710667)
+* [Screencastify Browser Plugin](https://www.screencastify.com/)
 
 ### Hardware Specifications
 
