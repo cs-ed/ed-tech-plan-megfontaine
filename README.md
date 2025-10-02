@@ -1,6 +1,6 @@
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+The following is an outline of the technology implementation plan for a high school computer science course.
 
 ## Context
 
@@ -23,9 +23,21 @@ and a significant portion of the student body, about 10%, are English Language L
 The school's [Ethnic Diversity Index](ed-data.org/article/Ethnic-Diversity-Index) is 44.
 The ethnic breakdown of the student population is 47.7%  Hispanic or Latino, 40.2% White,
 6% two races or more, 3.1% Asian, 1.3% African American, 0.7% Filopino, 0.4% American Indian 
-or Alaska Native,0.2% Pacific Islander, and 0.3% not reported. Approximately 49% of students 
-qualify for free and reduced-price meals.
+or Alaska Native, 0.2% Pacific Islander, and 0.3% not reported. Approximately 49% of students 
+qualify for free and reduced-price meals. 
 
+Enrollment in CS courses tends to be relatively low, with one section of AP Computer Science 
+offered each year. Typical enrollment for this course is anywhere from 20-30 students. There is a 
+great deal of diversity among students in regard to prior coding experience. The surrounding community
+is home to a significant number of tech-sector workers, many of whom have children who have some exposure
+to programming prior to enrolling in the course. At the same time, many of the students enrolled in 
+AP Computer Science are first time programmers with no prior knowledge.
+
+The school is part of a one-to-one district, meaning that each student has a personal computing device
+that they use during the school day. Some student's families purchase laptops, but the majority use
+school-issued Chromebooks. Therefore, all instructional materials and tools must be accessible
+across multiple operating systems, and web-based tools are integral to ensuring an equitable 
+learning experience for all students.
 
 ## Plan
 
@@ -36,7 +48,16 @@ well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
 Student Software
-* Personal Device Operating Systems
+* Personal device operating systems vary; most common are: iOS and Chrome OS
+* Prefered web browser: Chrome
+* Websites: [Code.org](https://code.org/en-US), [CodeHS](https://codehs.com/)
+* LMS: [Google Classroom](https://edu.google.com/intl/ALL_ca/workspace-for-education/products/classroom/)
+* Gradebook: [Aeries](aeries.net)
+
+Teacher Software
+* MacBook Pro
+* All website, LMS & gradebook tools listed above
+* [IDLE Python IDE](https://www.python.org/downloads/)
 
 ### Hardware Specifications
 
