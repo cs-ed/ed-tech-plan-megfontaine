@@ -13,10 +13,6 @@ Grades 10-12
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
-
 This course will be offered at a public high school serving a suburban community
 in the Northern Bay Area of California. Total enrollment is approimately 1600,
 and a significant portion of the student body, about 10%, are English Language Learners.
@@ -43,13 +39,9 @@ learning experience for all students.
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
-
 Student Software
-* Personal device operating systems vary; most common are: iOS and Chrome OS
-* Prefered web browser: Chrome
+* Personal device operating systems vary, most common are: iOS and Chrome OS
+* Prefered web browser: [Chrome](https://www.google.com/chrome/dr/download/?brand=FKPE&ds_kid=11256481&gclsrc=aw.ds&gad_source=1&gad_campaignid=22852283685&gbraid=0AAAAAoY3CA4a2naWbpr2PJ0slppe1wZTn&gclid=Cj0KCQjwovPGBhDxARIsAFhgkwQxItKoaGEh4zyIDpytJBF7vlXKeI45HJ4cSGLqWS_7uoJIc8wNJnMaAk4gEALw_wcB)
 * Websites: [Code.org](https://code.org/en-US), [CodeHS](https://codehs.com/)
 * LMS: [Google Classroom](https://edu.google.com/intl/ALL_ca/workspace-for-education/products/classroom/)
 * Gradebook: [Aeries](aeries.net)
