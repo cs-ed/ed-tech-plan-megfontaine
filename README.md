@@ -36,13 +36,13 @@ across multiple operating systems, and web-based tools are integral to ensuring 
 learning experience for all students.
 
 On a personal note, this will be my 15th year teaching at this school. I hold a Single Subject Credential
-in Secondary Mathematics, but I taught myself CS curriculum in order to begin teaching CS courses in 2015. 
-This will be my 10th year teaching computer science. Prior to the 25-26 school year I taught AP Computer Science A 
+in Secondary Mathematics, but I taught myself to code in Java and Python in order to begin teaching CS courses in 2015. 
+This will be my 10th year teaching computer science. Prior to the 25-26 school year, I taught AP Computer Science A 
 and Computer Science Intro. This year I will be teaching AP Computer Science Principles for the first time, with
 the hopes of alternating between both AP CS courses in the future. Teaching CS "out of field" has
 been equal parts a daunting and rewarding experience. While I have a solid foundation of content knowledge in the 
-courses I've previously taught, the AP CSP curriculum incorporates some areas I'm not as familiar with. In addition,
-the AP CSP Exam incorporates some writing components that are very different from the types of assessments I've prepared
+courses I've already taught, the AP CSP curriculum incorporates some areas I'm not as familiar with. In addition,
+the AP CSP Exam involves some writing components that are very different from the types of assessments I've prepared
 students for in the past. While I look forward to learning new ideas alongside my students, I will be decidedly outside
 my comfort zone as I navigate the first year of this new course.
 
@@ -53,7 +53,7 @@ my comfort zone as I navigate the first year of this new course.
 Student Software
 * Personal device operating systems vary, most common are: iOS and Chrome OS
 * Prefered web browser: [Chrome](https://www.google.com/chrome/dr/download/?brand=FKPE&ds_kid=11256481&gclsrc=aw.ds&gad_source=1&gad_campaignid=22852283685&gbraid=0AAAAAoY3CA4a2naWbpr2PJ0slppe1wZTn&gclid=Cj0KCQjwovPGBhDxARIsAFhgkwQxItKoaGEh4zyIDpytJBF7vlXKeI45HJ4cSGLqWS_7uoJIc8wNJnMaAk4gEALw_wcB)
-* Websites: [Code.org](https://code.org/en-US), [CodeHS](https://codehs.com/), [DeltaMath](https://www.deltamath.com/)
+* Websites: [Code.org](https://code.org/en-US), [CodeHS](https://codehs.com/), [DeltaMath](https://www.deltamath.com/), Google Suite 
 * LMS: [Google Classroom](https://edu.google.com/intl/ALL_ca/workspace-for-education/products/classroom/)
 * Gradebook: [Aeries](aeries.net)
 
@@ -66,14 +66,39 @@ Teacher Software
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+The following devices are provided by the school site:
+* Laptop Computer for students & teacher (MacBook/Chromebook)
+* Epson Projector
+* Samsung TV
+* Document Camera
+* WiFi Router
+* HDMI Cables/AppleTV for connecting displays
 
 ### Application
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+
+* A typical day in class will begin with warm-up excercises for students displayed
+  on the TV or projector. These may involve unplugged activities for students, such as
+  journal prompts, or students may be asked to complete a digital activity, such as a
+  game or puzzle, on their personal device. These warm-ups will typically be followed
+  by small group or whole class debriefs to capture important themes or highlight
+  interesting student ideas.
+* Most days, an opportunity will be provided for students to ask questions about
+  previously assigned homework exercises. If there are problems students find particularly
+  challenging, the instructor will share solutions and discuss common errors or misconceptions.
+  During this time the instructor will use the digital displays to screen-share while
+  providing a walkthrough of solutions and fielding student questions.
+* Lessons: Code.org, CodeHS, and teacher-created presentations/demos
+* Student activities: Code.org widgets, CodeHS coding exercises
+* DeltaMath independent practice exercises
+* CodeHS Sandbox for larger programming projects
+* Google Doc creating & editing
+* Submit all assignments to Google Classroom (or link assignments from Code.org, CodeHS)
+* Assessments projects & test/quiz (test quiz no device allowed to deter cheating)
+
 
 ### Impacts
 
