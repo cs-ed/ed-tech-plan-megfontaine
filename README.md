@@ -92,12 +92,14 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   During this time the instructor will use the digital displays to screen-share while
   providing a walkthrough of solutions and fielding student questions.
 * Lessons: Code.org, CodeHS, and teacher-created presentations/demos
-* Student activities: Code.org widgets, CodeHS coding exercises
+* Student activities: Code.org widgets, CodeHS coding exercises, journaling & interactive notebook
 * DeltaMath independent practice exercises
 * CodeHS Sandbox for larger programming projects
 * Google Doc creating & editing
 * Submit all assignments to Google Classroom (or link assignments from Code.org, CodeHS)
 * Assessments projects & test/quiz (test quiz no device allowed to deter cheating)
+* All lesson presentations, assignments & important content will be posted by instructor on Google Classroom (ensure compliance with IEPs/504)
+* Screencastify may be used to record portions of lessons, such as programming demos. These will also be posted to Google Classroom.
 
 
 ### Impacts
