@@ -26,14 +26,25 @@ Enrollment in CS courses tends to be relatively low, with one section of AP Comp
 offered each year. Typical enrollment for this course is anywhere from 20-30 students. There is a 
 great deal of diversity among students in regard to prior coding experience. The surrounding community
 is home to a significant number of tech-sector workers, many of whom have children who have some exposure
-to programming prior to enrolling in the course. At the same time, many of the students enrolled in 
-AP Computer Science are first time programmers with no prior knowledge.
+to programming prior to enrolling in the course. However, many AP Computer Science students are first time 
+programmers with no prior knowledge.
 
 The school is part of a one-to-one district, meaning that each student has a personal computing device
 that they use during the school day. Some student's families purchase laptops, but the majority use
 school-issued Chromebooks. Therefore, all instructional materials and tools must be accessible
 across multiple operating systems, and web-based tools are integral to ensuring an equitable 
 learning experience for all students.
+
+On a personal note, this will be my 15th year teaching at this school. I hold a Single Subject Credential
+in Secondary Mathematics, but I taught myself CS curriculum in order to begin teaching CS courses in 2015. 
+This will be my 10th year teaching computer science. Prior to the 25-26 school year I taught AP Computer Science A 
+and Computer Science Intro. This year I will be teaching AP Computer Science Principles for the first time, with
+the hopes of alternating between both AP CS courses in the future. Teaching CS "out of field" has
+been equal parts a daunting and rewarding experience. While I have a solid foundation of content knowledge in the 
+courses I've previously taught, the AP CSP curriculum incorporates some areas I'm not as familiar with. In addition,
+the AP CSP Exam incorporates some writing components that are very different from the types of assessments I've prepared
+students for in the past. While I look forward to learning new ideas alongside my students, I will be decidedly outside
+my comfort zone as I navigate the first year of this new course.
 
 ## Plan
 
@@ -42,7 +53,7 @@ learning experience for all students.
 Student Software
 * Personal device operating systems vary, most common are: iOS and Chrome OS
 * Prefered web browser: [Chrome](https://www.google.com/chrome/dr/download/?brand=FKPE&ds_kid=11256481&gclsrc=aw.ds&gad_source=1&gad_campaignid=22852283685&gbraid=0AAAAAoY3CA4a2naWbpr2PJ0slppe1wZTn&gclid=Cj0KCQjwovPGBhDxARIsAFhgkwQxItKoaGEh4zyIDpytJBF7vlXKeI45HJ4cSGLqWS_7uoJIc8wNJnMaAk4gEALw_wcB)
-* Websites: [Code.org](https://code.org/en-US), [CodeHS](https://codehs.com/)
+* Websites: [Code.org](https://code.org/en-US), [CodeHS](https://codehs.com/), [DeltaMath](https://www.deltamath.com/)
 * LMS: [Google Classroom](https://edu.google.com/intl/ALL_ca/workspace-for-education/products/classroom/)
 * Gradebook: [Aeries](aeries.net)
 
