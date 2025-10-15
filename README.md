@@ -7,8 +7,8 @@ The following is an outline of the technology implementation plan for a high sch
 ### Course
 
 AP Computer Science Principles    
-An introductory Computer Science course designed to introduce students to the 
-fundamental concepts and ideas central to the field.    
+An introductory Computer Science course designed to introduce students to  
+fundamental computing concepts and practices.    
 Grades 10-12
 
 ### Situation
@@ -53,7 +53,7 @@ my comfort zone as I navigate the first year of this new course.
 Student Software
 * Personal device operating systems vary, most common are: iOS and Chrome OS
 * Prefered web browser: [Chrome](https://www.google.com/chrome/dr/download/?brand=FKPE&ds_kid=11256481&gclsrc=aw.ds&gad_source=1&gad_campaignid=22852283685&gbraid=0AAAAAoY3CA4a2naWbpr2PJ0slppe1wZTn&gclid=Cj0KCQjwovPGBhDxARIsAFhgkwQxItKoaGEh4zyIDpytJBF7vlXKeI45HJ4cSGLqWS_7uoJIc8wNJnMaAk4gEALw_wcB)
-* Websites: [Code.org](https://code.org/en-US), [CodeHS](https://codehs.com/), [DeltaMath](https://www.deltamath.com/), Google Suite 
+* Websites: [Code.org](https://code.org/en-US), [CodeHS](https://codehs.com/), [DeltaMath](https://www.deltamath.com/), [AP Classroom](https://apcentral.collegeboard.org/instructional-resources/ap-classroom), Google Suite 
 * LMS: [Google Classroom](https://edu.google.com/intl/ALL_ca/workspace-for-education/products/classroom/)
 * Gradebook: [Aeries](aeries.net)
 
@@ -92,9 +92,27 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   During this time the instructor will use the digital displays to screen-share while
   providing a walkthrough of solutions and fielding student questions.
 * Lessons: Code.org, CodeHS, and teacher-created presentations/demos
+  The main portion of each lesson may take one of several formats: direct instruction, small group
+  activities, or long-form projects.
+
+  Direct instruction lessons will involve the instructor demonstrating skills or concepts through guided practice.
+  This may take the form of a follow-along coding exercise paired with note-taking. The TV display will mirror the
+  instructor's device, allowing students to watch as the instructor writes code. A projector will display notes or
+  lecture slides to accompany the coding demo.
+
+  Small group activities typically consist of a guided lesson on Code.org. Students utilize online widgets, printed graphic
+  organizers, and manipulatives to "learn by doing" as they explore the central lesson concept. This type of lesson
+  shifts between instructor-led, individual, and small group activities and discussions. Students may
+  draw diagrams to illustrate vocabulary terms, or create physical models to illustrate computing concepts.
+
+  Long-form projects will entail written reflections or coding projects. 
+
+  
+  
 * Student activities: Code.org widgets, CodeHS coding exercises, journaling & interactive notebook
 * DeltaMath independent practice exercises
 * CodeHS Sandbox for larger programming projects
+* AP Classroom used for exam preparation
 * Google Doc creating & editing
 * Submit all assignments to Google Classroom (or link assignments from Code.org, CodeHS)
 * Assessments projects & test/quiz (test quiz no device allowed to deter cheating)
@@ -108,3 +126,5 @@ How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
+
+
