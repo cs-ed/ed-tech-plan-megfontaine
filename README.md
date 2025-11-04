@@ -92,20 +92,20 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   During this time the instructor will use the digital displays to screen-share while
   providing a walkthrough of solutions and fielding student questions.
 * Lessons: Code.org, CodeHS, and teacher-created presentations/demos
-  The main portion of each lesson may take one of several formats: direct instruction, small group
-  activities, or long-form projects.
+  The main portion of each lesson may take one of several formats: <u>direct instruction </u>, <u>small group
+  activities</u>, or <u>long-form projects</u>.
 
-  Direct instruction lessons will involve the instructor demonstrating skills or concepts through guided practice.
+ <u>Direct instruction</u> lessons will involve the instructor demonstrating skills or concepts through guided practice.
   This may take the form of a follow-along coding exercise paired with note-taking. The TV display will mirror the
   instructor's device, allowing students to watch as the instructor writes code. A projector will display notes or
   lecture slides to accompany the coding demo.
 
-  Small group activities typically consist of a guided lesson on Code.org. Students utilize online widgets, printed graphic
+  <u>Small group activities</u> typically consist of a guided lesson on Code.org. Students utilize online widgets, printed graphic
   organizers, and manipulatives to "learn by doing" as they explore the central lesson concept. This type of lesson
   shifts between instructor-led, individual, and small group activities and discussions. Students may
   draw diagrams to illustrate vocabulary terms, or create physical models to illustrate computing concepts.
 
-  Long-form projects will entail written reflections or coding projects. 
+  <u>Long-form</u> projects will entail written reflections or coding projects. 
 
   
   
