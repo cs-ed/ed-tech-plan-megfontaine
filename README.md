@@ -92,7 +92,7 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   During this time the instructor will use the digital displays to screen-share while
   providing a walkthrough of solutions and fielding student questions.
 * Lessons: Code.org, CodeHS, and teacher-created presentations/demos
-  The main portion of each lesson may take one of several formats: direct instruction, small group
+  The main portion of each lesson may take one of several formats: <ins>direct instruction</ins>, small group
   activities, independent practice, and long-form projects.
 
     *Direct instruction lessons will involve the instructor demonstrating skills or concepts through guided practice.
