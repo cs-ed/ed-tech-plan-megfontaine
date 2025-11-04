@@ -92,29 +92,29 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   During this time the instructor will use the digital displays to screen-share while
   providing a walkthrough of solutions and fielding student questions.
 * Lessons: Code.org, CodeHS, and teacher-created presentations/demos
-  The main portion of each lesson may take one of several formats: <ins>direct instruction</ins>, small group
-  activities, independent practice, and long-form projects.
+  The main portion of each lesson may take one of several formats: <ins>direct instruction</ins>, <ins>small group
+  activities</ins>, <ins>independent practice</ins>, and <ins>long-form projects</ins>.
 
-    *Direct instruction lessons will involve the instructor demonstrating skills or concepts through guided practice.
+    *ins>Direct instruction</ins> lessons will involve the instructor demonstrating skills or concepts through guided practice.
   This may take the form of a follow-along coding exercise paired with note-taking. The TV display will mirror the
   instructor's device, allowing students to watch as the instructor writes code. A projector will display notes or
   lecture slides to accompany the coding demo.
 
-  **Small group activities typically consist of a guided lesson on Code.org. Students utilize online widgets, printed graphic
+    *ins>Small group activities</ins> typically consist of a guided lesson on Code.org. Students utilize online widgets, printed graphic
   organizers, and manipulatives to "learn by doing" as they explore the central lesson concept. This type of lesson
   shifts between instructor-led, individual, and small group activities and discussions. Students may
   draw diagrams to illustrate vocabulary terms, or create physical models to illustrate computing concepts.
 
-  **Long-form projects will entail written reflections or coding projects. 
+    *<ins>Independent practice will include:
+      * Student activities: Code.org widgets, CodeHS coding exercises, journaling & interactive notebook
+      * DeltaMath independent practice exercises
+      * CodeHS Sandbox for larger programming projects
+      * AP Classroom used for exam preparation
+      * Google Doc creating & editing
+      * Submit all assignments to Google Classroom (or link assignments from Code.org, CodeHS)
+      
+    *<ins>Long-form projects</ins> will entail written reflections or coding projects. 
 
-  
-  
-* Student activities: Code.org widgets, CodeHS coding exercises, journaling & interactive notebook
-* DeltaMath independent practice exercises
-* CodeHS Sandbox for larger programming projects
-* AP Classroom used for exam preparation
-* Google Doc creating & editing
-* Submit all assignments to Google Classroom (or link assignments from Code.org, CodeHS)
 * Assessments projects & test/quiz (test quiz no device allowed to deter cheating)
 * All lesson presentations, assignments & important content will be posted by instructor on Google Classroom (ensure compliance with IEPs/504)
 * Screencastify may be used to record portions of lessons, such as programming demos. These will also be posted to Google Classroom.
