@@ -86,11 +86,6 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   game or puzzle, on their personal device. These warm-ups will typically be followed
   by small group or whole class debriefs to capture important themes or highlight
   interesting student ideas.
-* Most days, an opportunity will be provided for students to ask questions about
-  previously assigned homework exercises. If there are problems students find particularly
-  challenging, the instructor will share solutions and discuss common errors or misconceptions.
-  During this time the instructor will use the digital displays to screen-share while
-  providing a walkthrough of solutions and fielding student questions.
 * Lessons: Code.org, CodeHS, and teacher-created presentations/demos
   The main portion of each lesson may take one of several formats: <ins>direct instruction</ins>, <ins>small group
   activities</ins>, <ins>independent practice</ins>, and <ins>long-form projects</ins>.
@@ -105,7 +100,7 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   shifts between instructor-led, individual, and small group activities and discussions. Students may
   draw diagrams to illustrate vocabulary terms, or create physical models to illustrate computing concepts.
 
-    *<ins>Independent practice will include:
+    *<ins>Independent practice</ins> will include:
       * Student activities: Code.org widgets, CodeHS coding exercises, journaling & interactive notebook
       * DeltaMath independent practice exercises
       * CodeHS Sandbox for larger programming projects
