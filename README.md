@@ -95,12 +95,12 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   The main portion of each lesson may take one of several formats: <ins>direct instruction</ins>, <ins>small group
   activities</ins>, <ins>independent practice</ins>, and <ins>long-form projects</ins>.
 
-    *ins>Direct instruction</ins> lessons will involve the instructor demonstrating skills or concepts through guided practice.
+    *<ins>Direct instruction</ins> lessons will involve the instructor demonstrating skills or concepts through guided practice.
   This may take the form of a follow-along coding exercise paired with note-taking. The TV display will mirror the
   instructor's device, allowing students to watch as the instructor writes code. A projector will display notes or
   lecture slides to accompany the coding demo.
 
-    *ins>Small group activities</ins> typically consist of a guided lesson on Code.org. Students utilize online widgets, printed graphic
+    *<ins>Small group activities</ins> typically consist of a guided lesson on Code.org. Students utilize online widgets, printed graphic
   organizers, and manipulatives to "learn by doing" as they explore the central lesson concept. This type of lesson
   shifts between instructor-led, individual, and small group activities and discussions. Students may
   draw diagrams to illustrate vocabulary terms, or create physical models to illustrate computing concepts.
