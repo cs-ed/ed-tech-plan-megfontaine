@@ -100,7 +100,7 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   shifts between instructor-led, individual, and small group activities and discussions. Students may
   draw diagrams to illustrate vocabulary terms, or create physical models to illustrate computing concepts.
 
-    *<ins>Independent practice</ins> will include:
+    *<ins>Independent practice</ins> will include
       * Student activities: Code.org widgets, CodeHS coding exercises, journaling & interactive notebook
       * DeltaMath independent practice exercises
       * CodeHS Sandbox for larger programming projects
