@@ -109,6 +109,11 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 * All lesson presentations, assignments & important content will be posted by instructor on Google Classroom (ensure compliance with IEPs/504)
 * Screencastify may be used to record portions of lessons, such as programming demos. These will also be posted to Google Classroom.
 
+## Evidence-Based Practices
+* Active Learning strategies will be frequently emphasized during lessons, including: think-pair-share, small and large group discussion, and individual journaling/reflections
+* Peer Instruction will be emphasized, particularly when students are asked to analyze algorithms or code samples
+* Pair Programming will be employed from time to time, particularly as students are tasked with creating longer, more complex programs
+
 
 ### Impacts
 
