@@ -95,7 +95,7 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
   The main portion of each lesson may take one of several formats: direct instruction, small group
   activities, independent practice, and long-form projects.
 
-  **Direct instruction lessons will involve the instructor demonstrating skills or concepts through guided practice.
+    *Direct instruction lessons will involve the instructor demonstrating skills or concepts through guided practice.
   This may take the form of a follow-along coding exercise paired with note-taking. The TV display will mirror the
   instructor's device, allowing students to watch as the instructor writes code. A projector will display notes or
   lecture slides to accompany the coding demo.
