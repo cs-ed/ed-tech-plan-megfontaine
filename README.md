@@ -7,7 +7,7 @@ The following is an outline of the technology implementation plan for a high sch
 ### Course
 
 AP Computer Science Principles    
-An Computer Science course designed to introduce students to fundamental computing concepts and practices.    
+A Computer Science course designed to introduce students to fundamental computing concepts and practices.    
 Grades 10-12
 
 ### Situation
