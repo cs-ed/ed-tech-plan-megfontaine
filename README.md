@@ -75,9 +75,8 @@ The following devices are provided by the school site:
 
 ### Application
 
-* Lessons: Code.org, CodeHS, and teacher-created presentations/demos
-  The main portion of each lesson may take one of several formats: <ins>direct instruction</ins>, <ins>small group
-  activities</ins>, <ins>independent practice</ins>, and <ins>long-form projects</ins>.
+* Lessons: Code.org, CodeHS, and teacher-created presentations/demos. The main portion of each lesson may take one of several formats:
+  <ins>direct instruction</ins>, <ins>small group activities</ins>, <ins>independent practice</ins>, and <ins>long-form projects</ins>.
 
     *<ins>Direct instruction</ins> lessons will involve the instructor demonstrating skills or concepts through guided practice.
   This may take the form of a follow-along coding exercise paired with note-taking. The TV display/projector will mirror the
