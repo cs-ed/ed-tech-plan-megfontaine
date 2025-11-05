@@ -103,7 +103,7 @@ The following devices are provided by the school site:
 * Pair Programming will be employed from time to time, particularly as students are tasked with creating longer, more complex programs
 * Students may be asked to build analog models using manipulatives, or draw visual representations of program actions to reinforce challenging coding concepts
 
-### ELearning Principles
+### eLearning Principles
 * Lessons will be "chunked" into shorter, focused sessions within each class period in order to make complex subject-matter more easily comprehensible
 * Lessons will involve a guided intro or consolidation portion where the instructor explains the central ideas alongside slides/visual displays to
   support student memory
