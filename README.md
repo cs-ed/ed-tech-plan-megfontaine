@@ -97,13 +97,13 @@ The following devices are provided by the school site:
 * All lesson presentations, assignments & important content will be posted by instructor on Google Classroom (ensure compliance with IEPs/504)
 * Screencastify may be used to record portions of lessons, such as programming demos. These will also be posted to Google Classroom.
 
-## Evidence-Based Practices
+### Evidence-Based Practices
 * Active Learning strategies will be frequently emphasized during lessons, including: think-pair-share, small and large group discussion, and individual journaling/reflections
 * Peer Instruction will be emphasized, particularly when students are asked to analyze algorithms or code samples
 * Pair Programming will be employed from time to time, particularly as students are tasked with creating longer, more complex programs
 * Students may be asked to build analog models using manipulatives, or draw visual representations of program actions to reinforce challenging coding concepts
 
-## ELearning Principles
+### ELearning Principles
 * Lessons will be "chunked" into shorter, focused sessions within each class period in order to make complex subject-matter more easily comprehensible
 * Lessons will involve a guided intro or consolidation portion where the instructor explains the central ideas alongside slides/visual displays to
   support student memory
@@ -112,7 +112,7 @@ The following devices are provided by the school site:
 * Students will be provided multiple exposures to key concepts. For example, new concepts will be presented in lecture, then specific examples or models will be provided,
   students will be encouraged to work collaboratively when first encountering unfamiliar concepts, and then students will be provided opportunities for individual practice.
 
-## Inclusive Pedagogy
+### Inclusive Pedagogy
 Given the diversity of the student body at this school, planning for this course through an inclusive lens is critical. The district's one to one device policy will ensure
 that all students have a laptop, and students whose households lack a reliable internet connection are provided with a hotspot for home use. Students enrolled in this course
 represent a wide array of racial, ethnic, and gender identities. Care will be taken to support a classroom environment where diverse voices and perspectives are welcome. 
