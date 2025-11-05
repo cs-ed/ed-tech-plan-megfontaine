@@ -76,32 +76,22 @@ The following devices are provided by the school site:
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
-
-* A typical day in class will begin with warm-up excercises for students displayed
-  on the TV or projector. These may involve unplugged activities for students, such as
-  journal prompts, or students may be asked to complete a digital activity, such as a
-  game or puzzle, on their personal device. These warm-ups will typically be followed
-  by small group or whole class debriefs to capture important themes or highlight
-  interesting student ideas.
 * Lessons: Code.org, CodeHS, and teacher-created presentations/demos
   The main portion of each lesson may take one of several formats: <ins>direct instruction</ins>, <ins>small group
   activities</ins>, <ins>independent practice</ins>, and <ins>long-form projects</ins>.
 
     *<ins>Direct instruction</ins> lessons will involve the instructor demonstrating skills or concepts through guided practice.
-  This may take the form of a follow-along coding exercise paired with note-taking. The TV display will mirror the
-  instructor's device, allowing students to watch as the instructor writes code. A projector will display notes or
-  lecture slides to accompany the coding demo.
+  This may take the form of a follow-along coding exercise paired with note-taking. The TV display/projector will mirror the
+  instructor's device, allowing students to watch as the instructor writes code. The projector can also be used to display notes or
+  lecture slides onto a whiteboard where the instructor can highlight or annotate to emphasize key concepts.
 
     *<ins>Small group activities</ins> typically consist of a guided lesson on Code.org. Students utilize online widgets, printed graphic
   organizers, and manipulatives to "learn by doing" as they explore the central lesson concept. This type of lesson
   shifts between instructor-led, individual, and small group activities and discussions. Students may
   draw diagrams to illustrate vocabulary terms, or create physical models to illustrate computing concepts.
 
-    *<ins>Independent practice</ins> will include individual tasks utilizing Code.org widgets, CodeHS coding exercises, DeltaMath exercises, exam review
-  using AP Classroom, and journaling or interactive notebook assignments
+    *<ins>Independent practice</ins> will include individual tasks that incorporate Code.org activities, CodeHS coding exercises, DeltaMath exercises, exam review
+  using AP Classroom, and journaling or interactive notebook assignments.
       
     *<ins>Long-form projects</ins> will entail written reflections created in Google Docs or coding projects created using CodeHS Sandbox. 
 
@@ -113,13 +103,31 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 * Active Learning strategies will be frequently emphasized during lessons, including: think-pair-share, small and large group discussion, and individual journaling/reflections
 * Peer Instruction will be emphasized, particularly when students are asked to analyze algorithms or code samples
 * Pair Programming will be employed from time to time, particularly as students are tasked with creating longer, more complex programs
+* Students may be asked to build analog models using manipulatives, or draw visual representations of program actions to reinforce challenging coding concepts
 
+## ELearning Principles
+* Lessons will be "chunked" into shorter, focused sessions within each class period in order to make complex subject-matter more easily comprehensible
+* Lessons will involve a guided intro or consolidation portion where the instructor explains the central ideas alongside slides/visual displays to
+  support student memory
+* Students will take notes or respond to reflective journaling prompts to support processing and retention of key concepts
+* Careful attention will be paid to coherence during lesson planning and delivery - lecture slides will be designed to support students' ability to focus on germaine content
+* Students will be provided multiple exposures to key concepts. For example, new concepts will be presented in lecture, then specific examples or models will be provided,
+  students will be encouraged to work collaboratively when first encountering unfamiliar concepts, and then students will be provided opportunities for individual practice.
+
+## Inclusive Pedagogy
+Given the diversity of the student body at this school, planning for this course through an inclusive lens is critical. The district's one to one device policy will ensure
+that all students have a laptop, and students whose households lack a reliable internet connection are provided with a hotspot for home use. Students enrolled in this course
+represent a wide array of racial, ethnic, and gender identities. Care will be taken to support a classroom environment where diverse voices and perspectives are welcome. 
+In particular, carefully planned pair, group, and class discussons will help to build a supportive classroom community. Lessons will be designed with the intent of providing
+students with exposure to multiple applications of computing concepts, so that students with different interests may find points of connection. When possible, students will be 
+provided opportunities to incorporate themes of personal interest into their work - enabling students to connect to and express their learning in ways they find meaningful.
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+The technology plan described above represents an effort to incorporate the best available learning tools alongside evidence-based best practices for computer science instruction.
+Students are provided with multiple modalities of access to core concepts, and are supported in utilizing a variety of tools to represent and express their learning. Use of a
+variety of teaching tools, both digital and analog, ensures flexibility in day-to-day class activities, which in turn supports student engagement. The diversity of teaching tools
+also supports resiliency in the event that any individual tool poses a legal/ethical challenge, becomes obsolete or is superceded by improved options. Utilizing a majority of web-
+based platforms ensures flexibility in the event of a transition to virtual learning. 
 
 
